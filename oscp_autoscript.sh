@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#OSCP Automation script created by Mattia Campagnano on Mon 04 Jan 2021 08:58:23 PM EST
-#Inspired by Joe McCray: https://www.youtube.com/watch?v=2dUXW-qhyGk
+# OSCP Automation script created by Mattia Campagnano on Mon 04 Jan 2021 08:58:23 PM EST
+# Inspired by Joe McCray: https://www.youtube.com/watch?v=2dUXW-qhyGk
 
 start_time=$(date)
 
