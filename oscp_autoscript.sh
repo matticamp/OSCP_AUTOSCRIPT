@@ -59,8 +59,8 @@ PROPECIA INSTALL PROCESS
 # The following steps (lines 64-167) require installing propecia (a very fast service sweeper), if not already available on the PWK VM.
 
 # PROPECIA INSTALLATION PROCESS
-# git clone https://github.com/Wh1t3Rh1n0/propecia.py.git
-# mv /root/propecia.py /root/propecia (I recommend renaming the script directory, "propecia.py", to "propecia", to avoid confusions)
+# a) git clone https://github.com/Wh1t3Rh1n0/propecia.py.git
+# b) mv /root/propecia.py /root/propecia (I recommend renaming the script directory, "propecia.py", to "propecia", to avoid confusions)
 
 #####################################
 #WINDOWS HOSTS DISCOVERY
