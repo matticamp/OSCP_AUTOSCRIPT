@@ -10,7 +10,8 @@ d) Run AutoRecon on all targets
 </br> b) AutoRecon (an awesome automation script developed by OffSec's Tib3rius, approved by OffSec)</br>
 
 <b>INSTALLING PROPECIA</b> <br>
-a) git clone https://github.com/Wh1t3Rh1n0/propecia.py.git <br> b) mv /root/propecia.py /root/propecia (I recommend renaming the script directory, "propecia.py", to "propecia", to avoid confusions) 
-<b>INSTALLING AUTORECON</b> a)COMMAND: git clone https://github.com/Tib3rius/AutoRecon.git 
-b)Installation guide: <br> https://github.com/Tib3rius/AutoRecon </br>
+a) git clone https://github.com/Wh1t3Rh1n0/propecia.py.git <br> b) mv /root/propecia.py /root/propecia (I recommend renaming the script directory, "propecia.py", to "propecia", to avoid confusions) <br>
+
+<b>INSTALLING AUTORECON</b> <br> a)COMMAND: git clone https://github.com/Tib3rius/AutoRecon.git <br>
+b)Installation guide: https://github.com/Tib3rius/AutoRecon </br>
 
