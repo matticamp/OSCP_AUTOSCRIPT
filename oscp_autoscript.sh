@@ -215,7 +215,7 @@ sleep 1
 # RUN AUTORECON SCRIPT
 ####################################
 
-# if you don't have AutoRecon already installed to your VM, run the simple command below to clone the repo:
+# If you don't have AutoRecon already installed to your VM, run the simple command below to clone the repo:
 # git clone https://github.com/Tib3rius/AutoRecon.git
 # To install AutoRecon, follow the detailed setup guide available on the GitHub repo.
 
