@@ -12,6 +12,6 @@ d) Run AutoRecon on all targets
 <b>INSTALLING PROPECIA</b> <br>
 a) git clone https://github.com/Wh1t3Rh1n0/propecia.py.git <br> b) mv /root/propecia.py /root/propecia (I recommend renaming the script directory, "propecia.py", to "propecia", to avoid confusions) <br>
 
-<b>INSTALLING AUTORECON</b> <br> a) <b> Clone the repo </b>: <em>git clone https://github.com/Tib3rius/AutoRecon.git </em><br>
-b) <b>Install the script </b>: follow the installation guide available at https://github.com/Tib3rius/AutoRecon </br>
+<b>INSTALLING AUTORECON</b> <br> a) <b> Clone the repo: </b> <em>git clone https://github.com/Tib3rius/AutoRecon.git </em><br>
+b) <b>Install the script: </b> follow the installation guide available at https://github.com/Tib3rius/AutoRecon </br>
 
