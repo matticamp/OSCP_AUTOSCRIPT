@@ -6,8 +6,8 @@ This script will perform automated recon on a target list, more exactly it will:
 d) Run AutoRecon on all targets
 
 <b>Requirements</b>:
-</br> a) propecia.py 
-</br> b) AutoRecon
+</br> a) propecia.py (a fast port sweeper)
+</br> b) AutoRecon (an awesome automation script developed by OffSec's Tib3rius, approved by OffSec)
 
 <b>INSTALLING PROPECIA</b> <br>
 a) git clone https://github.com/Wh1t3Rh1n0/propecia.py.git <br> b) mv /root/propecia.py /root/propecia (I recommend renaming the script directory, "propecia.py", to "propecia", to avoid confusions) </br>
