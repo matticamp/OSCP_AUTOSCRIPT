@@ -53,7 +53,7 @@ echo -n "All needed directories were successfully created"
 echo
 
 ################################
-PROPECIA INSTALL PROCESS
+# PROPECIA INSTALL PROCESS
 ################################
 
 # The following steps (lines 64-167) require installing propecia (a very fast service sweeper), if not already available on the PWK VM.
